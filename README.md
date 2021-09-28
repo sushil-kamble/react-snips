@@ -1,20 +1,20 @@
-# Next.js + Tailwind CSS Example
+# React Snippets
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+- Counter - [Demo](https://react-snips.vercel.app/counter) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/counter.jsx)
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+- Two Way Data Binding - [Demo](https://react-snips.vercel.app/two-way-data-binding) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/two-way-data-binding.jsx)
 
-## Preview
+- Toogle DOM - [Demo](https://react-snips.vercel.app/toggler) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/toggler.jsx)
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- Dropdown - [Demo](https://react-snips.vercel.app/dropdown) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/dropdown.jsx)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- Form Submit - [Demo](https://react-snips.vercel.app/form-submit) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/form-submit.jsx)
 
-## Deploy your own
+- Use Effect - [Demo](https://react-snips.vercel.app/use-effect-in-action) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/use-effect-in-action.jsx)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+- Counter by Class Example - [Demo](https://react-snips.vercel.app/counter-by-class) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/counter-by-class.jsx)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+- Calculator - [Demo](https://react-snips.vercel.app/calculator) [Code](https://github.com/sushil-kamble/react-snips/blob/main/pages/calculator.jsx)
 
 ## How to use
 
